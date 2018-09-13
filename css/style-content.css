@@ -151,7 +151,7 @@ ul li:nth-child(1) {
     }
 
 ul li:nth-child(2) {
-    background: url(github.com/Alexgute/portfolio/blob/master/img/bazaarbg.png);
+    background: url(https://github.com/Alexgute/portfolio/blob/master/img/bazaarbg.png?raw=true);
     background-size: cover;
     background-position: center;
     }
