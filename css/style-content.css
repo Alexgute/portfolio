@@ -145,13 +145,13 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background: url ![](img/vskillsbg.jpg);
+    background: url ![](./img/vskillsbg.jpg);
     background-size: cover;
     background-position: left;
     }
 
 ul li:nth-child(2) {
-    background: url ![](img/bazaarbg.png);
+    background: url ![](.img/bazaarbg.png);
     background-size: cover;
     background-position: center;
     }
