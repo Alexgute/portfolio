@@ -145,19 +145,19 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background: url(alexgute.github.io/img/vskills.jpg);
+    background: url(https://github.com/Alexgute/portfolio/blob/master/img/vskills.jpg);
     background-size: cover;
     background-position: left;
     }
 
 ul li:nth-child(2) {
-    background:  url(alexgute.github.io/portfolio/img/bazaarbg.jpg);
+    background:  url(github.com/Alexgute/portfolio/blob/master/img/bazaarbg.png);
     background-size: cover;
     background-position: center;
     }
 
 ul li:nth-child(3) {
-    background: url ![](img/voguebg.png);
+    background: url ![](github.com/Alexgute/portfolio/blob/master/img/voguebg.png);
     background-size: cover;
     background-position: center;
 }
