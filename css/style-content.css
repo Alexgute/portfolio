@@ -145,25 +145,27 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background-image: url("portfolio/img/bazaarbg.png");
+    background-image: url "portfolio/img/bazaarbg.png";
     background-size: cover;
     background-position: left;
     }
 
 ul li:nth-child(2) {
-    background: ![](https://github.com/Alexgute/portfolio/blob/master/img/bazaarbg.png);
+    background: ![](portfolio/img/bazaarbg.png);
     background-size: cover;
     background-position: center;
     }
 
 ul li:nth-child(3) {
-    background: url ![](github.com/Alexgute/portfolio/blob/master/img/voguebg.png);
+    background-image: src: "portfolio/img/bazaarbg.png";
     background-size: cover;
     background-position: center;
 }
 
 ul li:nth-child(4) {
-    background: url ![](img/noquarterbg.png);
+    background: src(
+      portfolio/img/bazaarbg.png
+    );
     background-size: cover;
     background-position: center;
 }
