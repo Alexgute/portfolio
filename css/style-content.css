@@ -145,13 +145,13 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background: ![vskillsbg](https://user-images.githubusercontent.com/41555687/45466909-07c69b80-b760-11e8-8507-acbf33db09ee.jpg);
+    background: url ![vskillsbg](https://user-images.githubusercontent.com/41555687/45466909-07c69b80-b760-11e8-8507-acbf33db09ee.jpg);
     background-size: cover;
     background-position: left;
     }
 
 ul li:nth-child(2) {
-    background: url ![](.img/bazaarbg.png);
+    background:  url(![vskillsbg](https://user-images.githubusercontent.com/41555687/45466909-07c69b80-b760-11e8-8507-acbf33db09ee.jpg));
     background-size: cover;
     background-position: center;
     }
