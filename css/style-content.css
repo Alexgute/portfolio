@@ -163,15 +163,13 @@ ul li:nth-child(3) {
 }
 
 ul li:nth-child(4) {
-    background: src(
-      portfolio/img/bazaarbg.png
-    );
+    background: url(portfolio/img/bazaarbg.png);
     background-size: cover;
     background-position: center;
 }
 
 ul li:nth-child(5) {
-    background: url ![](img/visabg.png);
+    background: url(img/visabg.png);
     background-size: cover;
     background-position: center;
 }
