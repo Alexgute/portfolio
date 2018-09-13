@@ -145,7 +145,7 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background-image: url(/Alexgute/portfolio/blob/master/img/bazaarbg.png?raw=true);
+    background-image: url(portfolio/img/bazaarbg.png);
     background-size: cover;
     background-position: left;
     }
