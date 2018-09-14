@@ -145,7 +145,7 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background-image: url(./img/qantasbg.png);
+    background-image: url(img/qantasbg.png);
     background-size: cover;
     background-position: center;
     }
