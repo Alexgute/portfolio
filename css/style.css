@@ -145,25 +145,25 @@ ul li {
 }
 
 ul li:nth-child(1) {
-    background: url(/Users/clsayg/Desktop/PORTFOLIO/img/qantasbg.png);
+    background: url(./img/qantasbg.png);
     background-size: cover;
     background-position: center;
     }
 
 ul li:nth-child(2) {
-    background: url(/Users/clsayg/Desktop/PORTFOLIO/img/rugbybg.png);
+    background: url(../img/rugbybg.png);
     background-size: cover;
     background-position: center;
     }
 
 ul li:nth-child(3) {
-    background: url(/Users/clsayg/Desktop/PORTFOLIO/img/doritosbg.png);
+    background: url("../img/doritosbg.png");
     background-size: cover;
     background-position: center;
 }
 
 ul li:nth-child(4) {
-    background: url(/Users/clsayg/Desktop/PORTFOLIO/img/lawsonsbg.png);
+    background: url("./img/lawsonsbg.png");
     background-size: cover;
     background-position: center;
 }
