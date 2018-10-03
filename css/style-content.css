@@ -33,6 +33,12 @@ p{
     border-right: 1px solid rgba(0,0,0,.1);
  }
 
+ @media (max-width: 768px){
+.menu{
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+ }
+
 .menu span {
     position: absolute;
     width: 30px;
@@ -245,11 +251,11 @@ ul li:hover .content {
     height: 0;
     max-width: 1000px;
     z-index: 3;
-    background-color: aqua;
     transform: translateX(-30%);
 }
 
 .profile{
+    font-size: 1.3rem;
     display: none;
     text-align: center;
     line-height: 40px;
@@ -258,16 +264,16 @@ ul li:hover .content {
     padding: 50px;
     top: 0;
     left: 0;
-    width: 50%;
-
+    width: 55%;
 }
 
 .contact{
     color: #262626;
-    font-size: 18px;
+    font-size: 1.3rem;
     list-style: none;
     text-decoration: none;
 }
+
 
 .vimeologo{
     margin-top: 10px;
@@ -308,14 +314,14 @@ br {
         display: none;
         font-size: 1rem;
         text-align: center;
-        line-height: 1.5rem;
+        line-height: 2rem;
         background: rgba(255, 255, 255, 1);
         box-shadow: 2px 2px 8px 5px rgba(0, 0, 0, .3);
         padding: 2rem;
-        padding-bottom: 2.5rem;
+        padding-bottom: 4rem;
         margin: 0 auto;
-        width: 20rem;;
-       
+        width: 19.5rem;;
+        height: 19.5rem;
     }
     
     .contact{
