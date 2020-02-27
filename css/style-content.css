@@ -192,7 +192,7 @@ ul li:nth-child(2) {
     }
 
     ul li:nth-child(3) {
-        background-image: url(../img/pathsbg.png);
+        background-image: url(../img/jalbg.png);
         background-size: cover;
         background-position: center;
     }
@@ -204,7 +204,7 @@ ul li:nth-child(4) {
 }
 
     ul li:nth-child(5) {
-        background: url(../img/jalbg.png);
+        background: url(../img/pathsbg.png);
         background-size: cover;
         background-position: center;
     }

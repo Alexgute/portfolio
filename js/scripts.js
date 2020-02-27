@@ -98,17 +98,14 @@ $('.player-mask').click(function(){
     $('.overlay, #bazaar').css('display', 'none');
 });
 
-
-
-$('#paths-btn').click(function(){
-    $('.overlay, #paths').css('display', 'block');
+$('#jal-btn').click(function () {
+    $('.overlay, #jal').css('display', 'block');
 
 });
 
-$('.player-mask').click(function(){
-    $('.overlay, #paths').css('display', 'none');
+$('.player-mask').click(function () {
+    $('.overlay, #jal').css('display', 'none');
 });
-
 
 
 $('#noquarter-btn').click(function(){
@@ -121,14 +118,13 @@ $('.player-mask').click(function(){
 });
 
 
-
-$('#jal-btn').click(function(){
-    $('.overlay, #jal').css('display', 'block');
+$('#paths-btn').click(function () {
+    $('.overlay, #paths').css('display', 'block');
 
 });
 
-$('.player-mask').click(function(){
-    $('.overlay, #jal').css('display', 'none');
+$('.player-mask').click(function () {
+        $('.overlay, #paths').css('display', 'none');
 });
 });
 /*******
