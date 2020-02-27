@@ -203,11 +203,11 @@ ul li:nth-child(4) {
     background-position: center;
 }
 
-ul li:nth-child(5) {
-    background: url(../img/visabg.png.png);
-    background-size: cover;
-    background-position: center;
-}
+    ul li:nth-child(5) {
+        background: url(../img/jalbg.png);
+        background-size: cover;
+        background-position: center;
+    }
 
 ul:hover li {
     width: 10%;
@@ -384,7 +384,7 @@ br {
     display: none;
 }
 
-#vskills, #bazaar, #vogue, #noquarter, #visa {
+#vskills, #bazaar, #vogue, #noquarter, #jal {
     display: none;
 }
 

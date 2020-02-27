@@ -122,13 +122,13 @@ $('.player-mask').click(function(){
 
 
 
-$('#visa-btn').click(function(){
-    $('.overlay, #visa').css('display', 'block');
+$('#jal-btn').click(function(){
+    $('.overlay, #jal').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #visa').css('display', 'none');
+    $('.overlay, #jal').css('display', 'none');
 });
 });
 /*******
