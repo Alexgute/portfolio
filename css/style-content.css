@@ -191,11 +191,11 @@ ul li:nth-child(2) {
     background-position: center;
     }
 
-ul li:nth-child(3) {
-    background-image: url(../img/voguebg.png);
-    background-size: cover;
-    background-position: center;
-}
+    ul li:nth-child(3) {
+        background-image: url(../img/pathsbg.png);
+        background-size: cover;
+        background-position: center;
+    }
 
 ul li:nth-child(4) {
     background: url(../img/noquarterbg.png);

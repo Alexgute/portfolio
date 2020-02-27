@@ -100,13 +100,13 @@ $('.player-mask').click(function(){
 
 
 
-$('#vogue-btn').click(function(){
-    $('.overlay, #vogue').css('display', 'block');
+$('#paths-btn').click(function(){
+    $('.overlay, #paths').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #vogue').css('display', 'none');
+    $('.overlay, #paths').css('display', 'none');
 });
 
 
