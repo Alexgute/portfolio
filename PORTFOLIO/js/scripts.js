@@ -89,13 +89,13 @@ $('.player-mask').click(function(){
 
 
 
-$('#cetaphil-btn').click(function(){
-    $('.overlay, #cetaphil').css('display', 'block');
+$('#hellofresh-btn').click(function(){
+    $('.overlay, #hellofresh').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #cetaphil').css('display', 'none');
+    $('.overlay, #hellofresh').css('display', 'none');
 });
 
 
