@@ -100,13 +100,13 @@ $('.player-mask').click(function(){
 
 
 
-$('#vogue-btn').click(function(){
-    $('.overlay, #vogue').css('display', 'block');
+$('#jalbg-btn').click(function(){
+    $('.overlay, #jalbg').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #vogue').css('display', 'none');
+    $('.overlay, #jalbg').css('display', 'none');
 });
 
 
@@ -122,13 +122,13 @@ $('.player-mask').click(function(){
 
 
 
-$('#visa-btn').click(function(){
-    $('.overlay, #visa').css('display', 'block');
+$('#crossingpaths-btn').click(function(){
+    $('.overlay, #crossingpaths').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #visa').css('display', 'none');
+    $('.overlay, #crossingpaths').css('display', 'none');
 });
 });
 /*******

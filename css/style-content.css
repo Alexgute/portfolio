@@ -185,10 +185,10 @@ ul li:nth-child(1) {
     background-position: left;
     }
 
-ul li:nth-child(2) {
-    background: url(../img/bazaarbg.png);
-    background-size: cover;
-    background-position: center;
+    ul li:nth-child(2) {
+        background: url(../img/hellofreshbg.png);
+        background-size: cover;
+        background-position: center;
     }
 
     ul li:nth-child(3) {
