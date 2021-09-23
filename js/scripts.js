@@ -54,13 +54,13 @@ $(document).ready(function(){
 
 
 
-    $('#lawsons-btn').click(function(){
-        $('.overlay, #lawsons').css('display', 'block');
+    $('#cetaphil-btn').click(function(){
+        $('.overlay, #cetaphil').css('display', 'block');
     
     });
 
     $('.player-mask').click(function(){
-        $('.overlay, #lawsons').css('display', 'none');
+        $('.overlay, #cetaphil').css('display', 'none');
     });
 
 
@@ -89,23 +89,26 @@ $('.player-mask').click(function(){
 
 
 
-$('#bazaar-btn').click(function(){
-    $('.overlay, #bazaar').css('display', 'block');
+$('#cetaphil-btn').click(function(){
+    $('.overlay, #cetaphil').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #bazaar').css('display', 'none');
+    $('.overlay, #cetaphil').css('display', 'none');
 });
 
-$('#jal-btn').click(function () {
-    $('.overlay, #jal').css('display', 'block');
+
+
+$('#vogue-btn').click(function(){
+    $('.overlay, #vogue').css('display', 'block');
 
 });
 
-$('.player-mask').click(function () {
-    $('.overlay, #jal').css('display', 'none');
+$('.player-mask').click(function(){
+    $('.overlay, #vogue').css('display', 'none');
 });
+
 
 
 $('#noquarter-btn').click(function(){
@@ -118,13 +121,14 @@ $('.player-mask').click(function(){
 });
 
 
-$('#paths-btn').click(function () {
-    $('.overlay, #paths').css('display', 'block');
+
+$('#visa-btn').click(function(){
+    $('.overlay, #visa').css('display', 'block');
 
 });
 
-$('.player-mask').click(function () {
-        $('.overlay, #paths').css('display', 'none');
+$('.player-mask').click(function(){
+    $('.overlay, #visa').css('display', 'none');
 });
 });
 /*******
