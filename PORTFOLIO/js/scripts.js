@@ -54,13 +54,13 @@ $(document).ready(function(){
 
 
 
-    $('#lawsons-btn').click(function(){
-        $('.overlay, #lawsons').css('display', 'block');
+    $('#cetaphil-btn').click(function(){
+        $('.overlay, #cetaphil').css('display', 'block');
     
     });
 
     $('.player-mask').click(function(){
-        $('.overlay, #lawsons').css('display', 'none');
+        $('.overlay, #cetaphil').css('display', 'none');
     });
 
 
@@ -89,13 +89,13 @@ $('.player-mask').click(function(){
 
 
 
-$('#bazaar-btn').click(function(){
-    $('.overlay, #bazaar').css('display', 'block');
+$('#cetaphil-btn').click(function(){
+    $('.overlay, #cetaphil').css('display', 'block');
 
 });
 
 $('.player-mask').click(function(){
-    $('.overlay, #bazaar').css('display', 'none');
+    $('.overlay, #cetaphil').css('display', 'none');
 });
 
 
