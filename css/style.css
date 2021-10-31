@@ -190,11 +190,11 @@ ul li:nth-child(2) {
     background-position: center;
     }
 
-ul li:nth-child(3) {
-    background: url("../img/doritosbg.png");
-    background-size: cover;
-    background-position: center;
-}
+    ul li:nth-child(3) {
+        background: url("../img/gpavbg.png");
+        background-size: cover;
+        background-position: center;
+    }
 
     ul li:nth-child(4) {
         background: url(../img/cetaphilbg.png);
@@ -381,7 +381,7 @@ br {
     display: none;
 }
 
-#qantas, #rugby, #doritos, #lawsons, #smiths {
+#qantas, #rugby, #gpav, #lawsons, #smiths {
     display: none;
 }
 

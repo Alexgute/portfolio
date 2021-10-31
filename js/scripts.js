@@ -43,8 +43,8 @@ $(document).ready(function(){
 
 
 
-    $('#doritos-btn').click(function(){
-        $('.overlay, #doritos').css('display', 'block');
+    $('#gpav-btn').click(function(){
+        $('.overlay, #gpav').css('display', 'block');
     
     });
 
